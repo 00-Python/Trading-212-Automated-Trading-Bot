@@ -129,6 +129,6 @@ dmypy.json
 .pyre/
 
 # Trading 212 credentials file
-api/credentials.txt
-api/geckodriver.log
-api/geckodriver.exe
+platform/credentials.txt
+platform/geckodriver.log
+platform/geckodriver.exe
