@@ -1,4 +1,4 @@
-# Automated Trading Platform
+# Automated Trading with Trading 212
 Platform for trading on Trading 212 
 ## Install
 1. Clone Repo:
